@@ -1,0 +1,3 @@
+-Se aprendió conceptos básicos de linux
+-Se hizo ejercicios practicos de git como la configuracion de usuario y email y se conectó a un repositorio remoto
+-Se aprendío comandos de MarkDown
